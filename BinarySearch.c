@@ -4,6 +4,7 @@ int main()
     int array[100],size,i,pos,element;
     printf("Enter the size of array: ");
     scanf("%d",&size);
+    printf("Hello\n");
     printf("Enter the elements of array\n");
     for(i=0;i<size;i++)
     {
